@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RaceCard>
+	<Place>
+		<Racetrack>Gulfstream Park, Florida</Racetrack>
+		<RaceNumber>1</RaceNumber>
+		<Date>12/24/2018</Date>
+	</Place>
+
+	<Horses>
+		<Horse ID="1">
+			<Number>1</Number>
+			<Name>Ami's Artie</Name>
+			<Odds>20.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>10</Jockey_Trainer>
+			<Speed_E1>20</Speed_E1>
+			<Speed_E2>20</Speed_E2>
+		</Horse>	
+
+		<Horse ID="2">
+			<Number>2</Number>
+			<Name>Dazzling Prose</Name>
+			<Odds>6.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>10</Jockey_Trainer>
+			<Speed_E1>20</Speed_E1>
+			<Speed_E2>20</Speed_E2>
+		</Horse>	
+
+		<Horse ID="3">
+			<Number>3</Number>
+			<Name>Eclipsed Moon</Name>
+			<Odds>1.6</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>10</Jockey_Trainer>
+			<Speed_E1>20</Speed_E1>
+			<Speed_E2>20</Speed_E2>
+		</Horse>	
+
+		<Horse ID="4">
+			<Number>4</Number>
+			<Name>Kanaris</Name>
+			<Odds>20.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>10</Jockey_Trainer>
+			<Speed_E1>20</Speed_E1>
+			<Speed_E2>20</Speed_E2>
+		</Horse>	
+
+		<Horse ID="5">
+			<Number>5</Number>
+			<Name>Fightinirishtabit</Name>
+			<Odds>1.5</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>10</Jockey_Trainer>
+			<Speed_E1>20</Speed_E1>
+			<Speed_E2>20</Speed_E2>
+		</Horse>	
+
+		<Horse ID="6">
+			<Number>6</Number>
+			<Name>First Thunder</Name>
+			<Odds>30</Odds>
+			<Scratched>True</Scratched>
+			<Jockey_Trainer>10</Jockey_Trainer>
+			<Speed_E1>20</Speed_E1>
+			<Speed_E2>20</Speed_E2>
+		</Horse>	
+
+		<Horse ID="7">
+			<Number>7</Number>
+			<Name>Outside Lookin In</Name>
+			<Odds>3.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>10</Jockey_Trainer>
+			<Speed_E1>20</Speed_E1>
+			<Speed_E2>20</Speed_E2>
+		</Horse>	
+
+		<Horse ID="8">
+			<Number>8</Number>
+			<Name> </Name>
+			<Odds>0.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>10</Jockey_Trainer>
+			<Speed_E1>20</Speed_E1>
+			<Speed_E2>20</Speed_E2>
+		</Horse>	
+
+
+	</Horses>
+
+
+</RaceCard>
