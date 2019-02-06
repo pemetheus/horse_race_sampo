@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RaceCard>
+	<Place>
+		<Racetrack>Gulfstream Park , Florida</Racetrack>
+		<RaceNumber>3</RaceNumber>
+		<Date>12/28/2018</Date>
+		<Surface>Dirt</Surface>
+		<Lenght>1.1</Lenght>
+
+	</Place>
+
+	<Horses>
+		<Horse ID="1">
+			<Number>1</Number>
+			<Name>Pure Bliss</Name>
+			<Odds>30.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+
+
+		</Horse>	
+
+		<Horse ID="2">
+			<Number>2</Number>
+			<Name>Forty's Sweetheart</Name>
+			<Odds>30.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+
+		</Horse>	
+
+		<Horse ID="3">
+			<Number>3</Number>
+			<Name>Arcelor</Name>
+			<Odds>4.5</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="4">
+			<Number>4</Number>
+			<Name>Starship Reina</Name>
+			<Odds>1.2</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="5">
+			<Number>5</Number>
+			<Name>Yakut</Name>
+			<Odds>8.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="6">
+			<Number>6</Number>
+			<Name>Pink Mama</Name>
+			<Odds>1.40</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+	
+	</Horses>
+
+
+</RaceCard>

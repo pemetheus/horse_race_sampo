@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RaceCard>
+	<Place>
+		<Racetrack>Gulfstream Park , Florida</Racetrack>
+		<RaceNumber>1</RaceNumber>
+		<Date>12/28/2018</Date>
+		<Surface>Dirt</Surface>
+		<Lenght>1.1</Lenght>
+
+	</Place>
+
+	<Horses>
+		<Horse ID="1">
+			<Number>1</Number>
+			<Name>Bidding Circle</Name>
+			<Odds>3.5</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>37</Jockey_Trainer>
+			<Speed_E1>45</Speed_E1>
+			<Speed_E2>45</Speed_E2>
+			<Speed_late>40</Speed_late>
+			<Earnings>2</Earnings>
+			<WildHorse>50</WildHorse>
+
+
+		</Horse>	
+
+		<Horse ID="2">
+			<Number>2</Number>
+			<Name>Elizabeth's Vow</Name>
+			<Odds>12.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>32</Jockey_Trainer>
+			<Speed_E1>55</Speed_E1>
+			<Speed_E2>55</Speed_E2>
+			<Speed_late>65</Speed_late>
+			<Earnings>22</Earnings>
+			<WildHorse>50</WildHorse>
+
+		</Horse>	
+
+		<Horse ID="3">
+			<Number>3</Number>
+			<Name>Play That Tone</Name>
+			<Odds>6.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>37</Jockey_Trainer>
+			<Speed_E1>100</Speed_E1>
+			<Speed_E2>85</Speed_E2>
+			<Speed_late>85</Speed_late>
+			<Earnings>41</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="4">
+			<Number>4</Number>
+			<Name>Our Closure</Name>
+			<Odds>3.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>21</Jockey_Trainer>
+			<Speed_E1>80</Speed_E1>
+			<Speed_E2>90</Speed_E2>
+			<Speed_late>90</Speed_late>
+			<Earnings>2</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="5">
+			<Number>5</Number>
+			<Name>Herecitykitty</Name>
+			<Odds>30.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>30</Jockey_Trainer>
+			<Speed_E1>35</Speed_E1>
+			<Speed_E2>55</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>13</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="6">
+			<Number>6</Number>
+			<Name>Sweet Abdication</Name>
+			<Odds>20.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>18</Jockey_Trainer>
+			<Speed_E1>45</Speed_E1>
+			<Speed_E2>70</Speed_E2>
+			<Speed_late>55</Speed_late>
+			<Earnings>27</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="7">
+			<Number>7</Number>
+			<Name>Princess Zoe</Name>
+			<Odds>20.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>22</Jockey_Trainer>
+			<Speed_E1>10</Speed_E1>
+			<Speed_E2>10</Speed_E2>
+			<Speed_late>35</Speed_late>
+			<Earnings>28</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="8">
+			<Number>8</Number>
+			<Name>Psycho Girl</Name>
+			<Odds>20.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>11</Jockey_Trainer>
+			<Speed_E1>15</Speed_E1>
+			<Speed_E2>45</Speed_E2>
+			<Speed_late>10</Speed_late>
+			<Earnings>19</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="9">
+			<Number>9</Number>
+			<Name>Cocktail Skirt</Name>
+			<Odds>4.5</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>95</Jockey_Trainer>
+			<Speed_E1>18</Speed_E1>
+			<Speed_E2>25</Speed_E2>
+			<Speed_late>30</Speed_late>
+			<Earnings>87</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="10">
+			<Number>10</Number>
+			<Name>Motherwell</Name>
+			<Odds>12.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>23</Jockey_Trainer>
+			<Speed_E1>55</Speed_E1>
+			<Speed_E2>70</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>77</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="11">
+			<Number>11</Number>
+			<Name>Glorious Freedom</Name>
+			<Odds>20.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>43</Jockey_Trainer>
+			<Speed_E1>75</Speed_E1>
+			<Speed_E2>80</Speed_E2>
+			<Speed_late>70</Speed_late>
+			<Earnings>48</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="12">
+			<Number>12</Number>
+			<Name>Bodie's Valentine</Name>
+			<Odds>6.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>44</Jockey_Trainer>
+			<Speed_E1>65</Speed_E1>
+			<Speed_E2>70</Speed_E2>
+			<Speed_late>70</Speed_late>
+			<Earnings>35</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="13">
+			<Number>13</Number>
+			<Name>Reiltin Oir</Name>
+			<Odds>10.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>39</Jockey_Trainer>
+			<Speed_E1>45</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>40</Speed_late>
+			<Earnings>28</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="14">
+			<Number>14</Number>
+			<Name></Name>
+			<Odds></Odds>
+			<Scratched></Scratched>
+			<Jockey_Trainer>0</Jockey_Trainer>
+			<Speed_E1>0</Speed_E1>
+			<Speed_E2>0</Speed_E2>
+			<Speed_late>0</Speed_late>
+			<Earnings>0</Earnings>
+			<WildHorse>0</WildHorse>
+		</Horse>	
+
+		<Horse ID="15">
+			<Number>15</Number>
+			<Name></Name>
+			<Odds></Odds>
+			<Scratched></Scratched>
+			<Jockey_Trainer>0</Jockey_Trainer>
+			<Speed_E1>0</Speed_E1>
+			<Speed_E2>0</Speed_E2>
+			<Speed_late>0</Speed_late>
+			<Earnings>0</Earnings>
+			<WildHorse>0</WildHorse>
+		</Horse>	
+
+	</Horses>
+
+
+</RaceCard>

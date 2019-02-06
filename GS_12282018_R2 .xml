@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RaceCard>
+	<Place>
+		<Racetrack>Gulfstream Park , Florida</Racetrack>
+		<RaceNumber>2</RaceNumber>
+		<Date>12/28/2018</Date>
+		<Surface>Dirt</Surface>
+		<Lenght>1.1</Lenght>
+
+	</Place>
+
+	<Horses>
+		<Horse ID="1">
+			<Number>1</Number>
+			<Name>Southern Cal</Name>
+			<Odds>3.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+
+
+		</Horse>	
+
+		<Horse ID="2">
+			<Number>2</Number>
+			<Name>Midnightonbroadway </Name>
+			<Odds>6.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+
+		</Horse>	
+
+		<Horse ID="3">
+			<Number>3</Number>
+			<Name>Luminary Flight</Name>
+			<Odds>10.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="4">
+			<Number>4</Number>
+			<Name>High Flying Guy</Name>
+			<Odds>2.5</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="5">
+			<Number>5</Number>
+			<Name>Somedreamscometrue </Name>
+			<Odds>6.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="6">
+			<Number>6</Number>
+			<Name>Miago</Name>
+			<Odds>20.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="7">
+			<Number>7</Number>
+			<Name>Foolish Prince</Name>
+			<Odds>4.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="8">
+			<Number>8</Number>
+			<Name>Mr. Papillon</Name>
+			<Odds>20.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+	</Horses>
+
+
+</RaceCard>

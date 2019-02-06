@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RaceCard>
+	<Place>
+		<Racetrack>Gulfstream Park , Florida</Racetrack>
+		<RaceNumber>9</RaceNumber>
+		<Date>12/28/2018</Date>
+		<Surface>Dirt</Surface>
+		<Lenght>1.1</Lenght>
+
+	</Place>
+
+	<Horses>
+		<Horse ID="1">
+			<Number>1</Number>
+			<Name>Focus On Me</Name>
+			<Odds>15.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+
+
+		</Horse>	
+
+		<Horse ID="2">
+			<Number>2</Number>
+			<Name>Red Crescent</Name>
+			<Odds>10.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+
+		</Horse>	
+
+		<Horse ID="3">
+			<Number>3</Number>
+			<Name>Conquest Windycity</Name>
+			<Odds>2.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="4">
+			<Number>4</Number>
+			<Name>Tale of Fire</Name>
+			<Odds>6.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="5">
+			<Number>5</Number>
+			<Name>Zulu</Name>
+			<Odds>2.5</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="6">
+			<Number>6</Number>
+			<Name>Sparticle</Name>
+			<Odds>6.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="7">
+			<Number>7</Number>
+			<Name>Weisser</Name>
+			<Odds>4.5</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+
+	</Horses>
+
+
+</RaceCard>

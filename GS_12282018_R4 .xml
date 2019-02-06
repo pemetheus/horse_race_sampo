@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RaceCard>
+	<Place>
+		<Racetrack>Gulfstream Park , Florida</Racetrack>
+		<RaceNumber>4</RaceNumber>
+		<Date>12/28/2018</Date>
+		<Surface>Dirt</Surface>
+		<Lenght>6.0</Lenght>
+
+	</Place>
+
+	<Horses>
+		<Horse ID="1">
+			<Number>1</Number>
+			<Name>All About Hay</Name>
+			<Odds>3.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+
+
+		</Horse>	
+
+		<Horse ID="2">
+			<Number>2</Number>
+			<Name>Tiz Tas Time</Name>
+			<Odds>4.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+
+		</Horse>	
+
+		<Horse ID="3">
+			<Number>3</Number>
+			<Name>Southern Toddy</Name>
+			<Odds>6.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="4">
+			<Number>4</Number>
+			<Name>Awesome Friday</Name>
+			<Odds>5.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="5">
+			<Number>5</Number>
+			<Name>J P's Rose</Name>
+			<Odds>8.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="6">
+			<Number>6</Number>
+			<Name>Princess Daniela</Name>
+			<Odds>8.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="7">
+			<Number>7</Number>
+			<Name>Buenamoza</Name>
+			<Odds>20.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="8">
+			<Number>8</Number>
+			<Name>Daisy's Storm</Name>
+			<Odds>6.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="9">
+			<Number>9</Number>
+			<Name>Mississippi Sound</Name>
+			<Odds>15.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+	</Horses>
+
+
+</RaceCard>

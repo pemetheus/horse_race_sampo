@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RaceCard>
+	<Place>
+		<Racetrack>Gulfstream Park , Florida</Racetrack>
+		<RaceNumber>5</RaceNumber>
+		<Date>12/28/2018</Date>
+		<Surface>Dirt</Surface>
+		<Lenght>1.0</Lenght>
+
+	</Place>
+
+	<Horses>
+		<Horse ID="1">
+			<Number>1</Number>
+			<Name>First and Three</Name>
+			<Odds>1.2</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+
+
+		</Horse>	
+
+		<Horse ID="2">
+			<Number>2</Number>
+			<Name>Impress Me</Name>
+			<Odds>3.5</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+
+		</Horse>	
+
+		<Horse ID="3">
+			<Number>3</Number>
+			<Name>Whitecap Bay</Name>
+			<Odds>6.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="4">
+			<Number>4</Number>
+			<Name>Hard Belle</Name>
+			<Odds>8.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="5">
+			<Number>5</Number>
+			<Name>Street Chopper</Name>
+			<Odds>15.0</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="6">
+			<Number>6</Number>
+			<Name>Homeboy</Name>
+			<Odds>12.00</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+		<Horse ID="7">
+			<Number>7</Number>
+			<Name>Moscow Minister</Name>
+			<Odds>4.50</Odds>
+			<Scratched>False</Scratched>
+			<Jockey_Trainer>50</Jockey_Trainer>
+			<Speed_E1>50</Speed_E1>
+			<Speed_E2>50</Speed_E2>
+			<Speed_late>50</Speed_late>
+			<Earnings>50</Earnings>
+			<WildHorse>50</WildHorse>
+		</Horse>	
+
+
+	</Horses>
+
+
+</RaceCard>
